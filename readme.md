@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Old Instant messaging](#Old-Instant-messaging)
+- [Old Instant messaging](#old-Instant-messaging)
 - [Porting to old systems](#porting-to-old-systems)
 
 
