@@ -9,26 +9,51 @@
 - [Porting to old systems](#porting-to-old-systems)
 
 
-## Old Instant messaging
+<details open><summary><h2>Old Instant messaging</h2></summary>
 
 Resurrection of old instant messaging protocols.
 
 - [AIM and ICQ](https://github.com/mk6i/open-oscar-server)
 - [MSN Messenger and Windows Live Messenger](https://escargot.chat/)
 
+---
 
-## Porting to old systems
+</details>
+
+<details open><summary><h2>Porting to old systems</h2></summary>
 
 Porting modern technology to old systems.
 
-### Browsers
+### Compilers
+
+- [Portable C and C++ Development Kit](https://github.com/skeeto/w64devkit)
+- [MINGW-Win9x](https://github.com/crazii/MINGW-toolchains-w9x)
+- [TinyCC](https://repo.or.cz/w/tinycc.git)
+- [Dotnet10-Win32](https://github.com/kalnod/Win32Dotnet10Starter)
+- [Rust9x](https://github.com/rust9x/rust/)
+
+### Browsers/Web
 
 - [Mypal](https://www.mypal-browser.org/)
+- [Supermium](https://win32subsystem.live/supermium/)
+- [Palemoon](https://rtfreesoft.blogspot.com/search/label/browser)
+- [R3dfox](https://github.com/Eclipse-Community/r3dfox)
+- [Chromium based projects](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7/)
+
 
 ### Instant messaging
 
 - [Discord](https://github.com/DiscordMessenger/dm)
 
+### System libraries
+
+- [VxKex](https://github.com/i486/VxKex/)
+- [VxKex-NEXT](https://github.com/YuZhouRen86/VxKex-NEXT/)
+- [MinC](https://minc.commandlinerevolution.nl/english/home.html)
+
+---
+
+</details>
 
 ## Contributing
 
