@@ -7,6 +7,7 @@
 
 - [Old Instant messaging](#old-Instant-messaging)
 - [Porting to old systems](#porting-to-old-systems)
+- [Related awesome lists](#related-awesome-lists)
 
 
 <details open><summary><h2>Old Instant messaging</h2></summary>
@@ -50,6 +51,17 @@ Porting modern technology to old systems.
 - [VxKex](https://github.com/i486/VxKex/)
 - [VxKex-NEXT](https://github.com/YuZhouRen86/VxKex-NEXT/)
 - [MinC](https://minc.commandlinerevolution.nl/english/home.html)
+
+---
+
+</details>
+
+<details open><summary><h2>Related awesome lists</h2></summary>
+
+Another related awesome lists.
+
+- [Reverse engineering retro games](https://github.com/RetroReversing/retroReversing)
+- [Collection of technical documentation for retro hardware](https://github.com/TinyRetroWarehouse/Awesome-Retro-Docs)
 
 ---
 
