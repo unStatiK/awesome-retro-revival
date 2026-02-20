@@ -50,6 +50,7 @@ Porting modern technology to old systems.
 
 - [VxKex](https://github.com/i486/VxKex/)
 - [VxKex-NEXT](https://github.com/YuZhouRen86/VxKex-NEXT/)
+- [API Hooking Library for Windows](https://github.com/TsudaKageyu/minhook)
 - [MinC](https://minc.commandlinerevolution.nl/english/home.html)
 
 ---
