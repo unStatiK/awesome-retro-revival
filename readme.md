@@ -6,6 +6,7 @@
 ## Contents
 
 - [Old Instant messaging](#old-Instant-messaging)
+- [Old GUI libraries](#old-gui-libraries)
 - [Porting to old systems](#porting-to-old-systems)
 - [Related awesome lists](#related-awesome-lists)
 
@@ -16,6 +17,17 @@ Resurrection of old instant messaging protocols.
 
 - [AIM and ICQ](https://github.com/mk6i/open-oscar-server)
 - [MSN Messenger and Windows Live Messenger](https://escargot.chat/)
+
+---
+
+</details>
+
+<details open><summary><h2>Old GUI libraries</h2></summary>
+
+Resurrection of old GUI libraries.
+
+- [Classic GTK1](https://gitlab.com/robinrowe/gtk1)
+- [GTK1.2](http://runtimeterror.com/pages/badsector/gtk12/)
 
 ---
 
