@@ -58,6 +58,10 @@ Porting modern technology to old systems.
 
 - [Discord](https://github.com/DiscordMessenger/dm)
 
+### Games
+
+- [Steam](https://w7revived.chefkiss.dev/steam/)
+
 ### System libraries
 
 - [VxKex](https://github.com/i486/VxKex/)
