@@ -69,6 +69,7 @@ Porting modern technology to old systems.
 - [API Hooking Library for Windows](https://github.com/TsudaKageyu/minhook)
 - [MinC](https://minc.commandlinerevolution.nl/english/home.html)
 - [Backports modern features to old Apple OS's](https://github.com/pointfreeco/swift-perception)
+- [Windows 9x subsystem for Linux](https://codeberg.org/hails/wsl9x)
 
 ---
 
