@@ -7,6 +7,7 @@
 
 - [Old Instant messaging](#old-Instant-messaging)
 - [Old GUI libraries](#old-gui-libraries)
+- [Portable libraries](#portable-libraries)
 - [Porting to old systems](#porting-to-old-systems)
 - [Related awesome lists](#related-awesome-lists)
 
@@ -28,6 +29,16 @@ Resurrection of old GUI libraries.
 
 - [Classic GTK1](https://gitlab.com/robinrowe/gtk1)
 - [GTK1.2](http://runtimeterror.com/pages/badsector/gtk12/)
+
+---
+
+</details>
+
+<details open><summary><h2>Portable libraries</h2></summary>
+
+Portable libraries.
+
+- [Little Directmedia Layer](https://github.com/JordanCpp/LDL)
 
 ---
 
