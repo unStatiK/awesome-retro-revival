@@ -82,6 +82,11 @@ Porting modern technology to old systems.
 - [Backports modern features to old Apple OS's](https://github.com/pointfreeco/swift-perception)
 - [Windows 9x subsystem for Linux](https://codeberg.org/hails/wsl9x)
 
+
+### GUI libraries
+
+- [Backport Qt6](https://github.com/crystalidea/qt6windows7/)
+
 ---
 
 </details>
